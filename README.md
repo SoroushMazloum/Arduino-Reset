@@ -1,2 +1,3 @@
 # Arduino-Reset
-Simple code to Reset Arduino
+
+Connect A1 pin to reset pin with Jumper wire
